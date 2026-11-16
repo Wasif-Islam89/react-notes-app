@@ -1,7 +1,7 @@
-## react-notes-app
+# React Notes App
 A responsive Notes App built with React.js and Tailwind CSS, featuring Add, Edit, and Delete functionality. Practicing React Hooks, Props, Component Reusability, State Management, and Conditional Rendering.
 
-## ✨ Features
+# ✨ Features
 
 - Create Notes: Add notes quickly with a title and detailed description.
 - Edit Notes (Modal Component): Edit any existing note seamlessly via a dedicated popup modal (`EditModal.jsx`) pre-filled with the note's current title and details.
@@ -22,7 +22,7 @@ A responsive Notes App built with React.js and Tailwind CSS, featuring Add, Edit
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - React 19
 - Vite 8
